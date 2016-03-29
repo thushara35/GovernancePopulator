@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.wso2.carbon.registry:org.wso2.carbon.registry.resource:4.4.4-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../ProjectRepositories/repository_2/org/wso2/carbon/registry/org.wso2.carbon.registry.resource/4.4.4-SNAPSHOT/org.wso2.carbon.registry.resource-4.4.4-20150705.231250-34.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../ProjectRepositories/repository_2/org/wso2/carbon/registry/org.wso2.carbon.registry.resource/4.4.4-SNAPSHOT/org.wso2.carbon.registry.resource-4.4.4-20150705.231250-34-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../ProjectRepositories/repository_2/org/wso2/carbon/registry/org.wso2.carbon.registry.resource/4.4.4-SNAPSHOT/org.wso2.carbon.registry.resource-4.4.4-20150705.231250-34-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.wso2.carbon.registry:org.wso2.carbon.registry.uddi:4.4.6-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wso2/carbon/registry/org.wso2.carbon.registry.uddi/4.4.6-SNAPSHOT/org.wso2.carbon.registry.uddi-4.4.6-20150830.054512-71.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wso2/carbon/registry/org.wso2.carbon.registry.uddi/4.4.6-SNAPSHOT/org.wso2.carbon.registry.uddi-4.4.6-20150830.054512-71-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wso2/carbon/registry/org.wso2.carbon.registry.uddi/4.4.6-SNAPSHOT/org.wso2.carbon.registry.uddi-4.4.6-20150830.054512-71-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
